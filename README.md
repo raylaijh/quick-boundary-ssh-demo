@@ -1,4 +1,4 @@
-# HashiCorp Boundary simple and quick SSH setup
+# HashiCorp Boundary simple SSH setup
 
 This set of Terraform config is meant to quickly setup a simple Boundary demo with an SSH server.    
 

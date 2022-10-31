@@ -2,4 +2,4 @@
 .terraform/*
 boundary-tf.code-workspace
 terraform.tfstate
-terraform.tfstatebackup
+terraform.tfstate.backup

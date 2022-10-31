@@ -1,6 +1,6 @@
 # Terraform Code: HashiCorp Boundary simple and quick SSH setup
 
-This set of Terraform code is meant to quickly setup a simple Boundary demo with an SSH server. \
+This set of Terraform code is meant to quickly setup a simple Boundary demo with an SSH server.    
 
 Setup is based on [HashiCorp Boundary Learn Guide](https://developer.hashicorp.com/boundary/tutorials/hcp-administration/hcp-ssh-cred-injection?in=boundary%2Fhcp-administration)
 

@@ -1,16 +1,15 @@
-# quick-boundary-ssh-demo
-
 # Terraform Code: HashiCorp Boundary simple and quick SSH setup
 
-This set of Terraform code is meant to quickly setup a simple Boundary demo with an SSH server.
-Setup is based on https://developer.hashicorp.com/boundary/tutorials/hcp-administration/hcp-ssh-cred-injection?in=boundary%2Fhcp-administration
+This set of Terraform code is meant to quickly setup a simple Boundary demo with an SSH server. \
+
+Setup is based on [HashiCorp Boundary Learn Guide](https://developer.hashicorp.com/boundary/tutorials/hcp-administration/hcp-ssh-cred-injection?in=boundary%2Fhcp-administration)
 
 ## Requirements
 
-SSH server 
-Boundary cluster (Can be HCP Boundary)
-Vault cluser (Can be HCP Vault)
-Terminal with Vault and Boundary CLI installed (Tested with Boundary v0.11.0 and Vault v.1.11.2)
+1. SSH server 
+2. Boundary cluster (Can be HCP Boundary)
+3. Vault cluser (Can be HCP Vault)
+4. Terminal with Vault and Boundary CLI installed (Tested with Boundary v0.11.0 and Vault v.1.11.2)
 
 ## Example usage
 

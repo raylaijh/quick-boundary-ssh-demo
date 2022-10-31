@@ -9,7 +9,7 @@ Setup is based on [HashiCorp Boundary Learn Guide](https://developer.hashicorp.c
 1. SSH server 
 2. Boundary cluster (Can be HCP Boundary)
 3. Vault cluser (Can be HCP Vault)
-4. Terraform binary installed
+4. Terminal with Terraform binary installed
 5. Terminal with Vault and Boundary binary installed (Tested with Boundary v0.11.0 and Vault v.1.11.2)
 
 ## Example usage

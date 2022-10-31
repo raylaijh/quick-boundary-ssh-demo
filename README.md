@@ -40,7 +40,7 @@ The relevant output instructions will allow you to use Boundary to ssh into the 
 ```
 Follow the steps on your terminal to start testing:
 
-1. export BOUNDARY_ADDR = http://127.0.0.1:9200
+1. export BOUNDARY_ADDR=http://127.0.0.1:9200
 2. boundary authenticate password -auth-method-id ampw_1234567890 -login-name admin 
 2. boundary connect ssh -target-id ttcp_JlTmSGlwg2
 ```
